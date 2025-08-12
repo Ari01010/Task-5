@@ -1,6 +1,6 @@
 import pandas as pd
 
-def analyze_sales_data(file_path):
+def analyze_sales_data(sales_data.csv):
     """
     Analyzes sales data from a CSV file using Pandas.
 
